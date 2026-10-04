@@ -1,0 +1,13 @@
+PACOTE DE ATIVIDADES - ISW-039 MINERAÇÃO DE DADOS
+
+Arquivos:
+- Lista_Exercicios_ISW039_Python_SQL.docx
+- base_vendas_ecommerce.csv
+- base_clientes_varejo.csv
+- catalogo_produtos.html
+- base_transacoes_amostragem.csv
+- posts_api_backup.json
+
+Observação: as bases são sintéticas e realistas, produzidas exclusivamente para uso didático. Não contêm dados pessoais reais. Foram incluídos, de forma controlada, valores ausentes, duplicidades, inconsistências e valores extremos para permitir a aplicação das técnicas estudadas.
+
+Os arquivos CSV utilizam ponto e vírgula (;) como separador e codificação UTF-8 com BOM.
